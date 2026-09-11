@@ -2,7 +2,7 @@
 
 
 
-# [Project Name] 🎯
+#  FIND MY DUCK 🎯
 
 
 ## Basic Details
