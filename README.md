@@ -58,7 +58,7 @@ Win state after successfully clicking the duck, displaying the updated score, ce
 
 ### Project Demo
 # Video
-demovideo.webm
+[demovideo.webm](https://github.com/devapadhmaa23-bit/useless_project/blob/989b08b60990164b0066a50db0d5783d8cbd08be/demovideo.webm)
 
 Levels 1 to 4:** Standard point-and-click hidden object mechanics where the player quickly locates and clicks the duck placed around flowers, rocks, and clouds.
 **Level 5 Twist:** The duck dynamically dodges the cursor whenever it gets close, continuously repositioning around the screen while displaying funny messages ("Keep chasing!", "Fast duck energy!", "Nice try!", "Too slow!").
