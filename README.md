@@ -59,6 +59,7 @@ Win state after successfully clicking the duck, displaying the updated score, ce
 ### Project Demo
 # Video
 demovideo.webm
+
 Levels 1 to 4:** Standard point-and-click hidden object mechanics where the player quickly locates and clicks the duck placed around flowers, rocks, and clouds.
 **Level 5 Twist:** The duck dynamically dodges the cursor whenever it gets close, continuously repositioning around the screen while displaying funny messages ("Keep chasing!", "Fast duck energy!", "Nice try!", "Too slow!").
 * **Completion State:** After the chase phase, the duck gets tired, moves to the center, and allows the final click to trigger the "YOU DID IT!" victory screen with a final score of 1530 points.
